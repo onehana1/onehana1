@@ -1,6 +1,8 @@
 
 ## 👋 HI!
  
+![header](https://capsule-render.vercel.app/api?type=rect&color=87CEEB&height=120&section=header&text=HANA%20JUNG's%20GitHub&fontSize=35&fontColor=FFFFFF)
+
 
 
 ## 💻 기술 스택
